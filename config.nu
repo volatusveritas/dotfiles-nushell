@@ -20,7 +20,7 @@ source bookmarks/bookmarks.nu
 bookmark load
 
 # Aliases
-alias "bm" = bookmark go
+alias "bm go" = bookmark go
 alias "bm ls" = bookmark list
 alias "bm mk" = bookmark make
 alias "bm rm" = bookmark remove
